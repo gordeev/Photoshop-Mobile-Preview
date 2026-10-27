@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit">"Вписать"</string>
+    <string name="fit_width">"По ширине"</string>
+    <string name="fit_height">"По высоте"</string>
+    <string name="danger_zone">"Опасная зона"</string>
+    <string name="screen_corners">"Углы экрана"</string>
+    <string name="profile_count">"%1$d из %2$d"</string>
+    <string name="overlay_subtitle">"Вырезы и опасная зона поверх любого приложения"</string>
+    <string name="overlay_permission">"Разрешить показ поверх других приложений"</string>
+    <string name="cutout">"Вырез"</string>
+    <string name="png_overlay">"Картинка поверх (PNG)"</string>
+    <string name="pick_png">"Выбрать PNG…"</string>
+    <string name="show_png">"Показывать"</string>
+    <string name="remove_png">"Убрать"</string>
+    <string name="opacity">"Непрозрачность: %1$d%%"</string>
+    <string name="overlay_hint">"Оверлей не мешает нажатиям — игра управляется как обычно.\nОбычный скриншот телефона (питание + громкость вниз) снимает экран вместе с зонами.\nЛистать вырезы и выключать оверлей можно из уведомления."</string>
+    <string name="stop_overlay">"Выключить оверлей"</string>
+    <string name="start_overlay">"Включить оверлей"</string>
+    <string name="png_selected">"PNG выбран"</string>
+    <string name="png_not_selected">"Не выбрана"</string>
+    <string name="stretch">"Растянуть"</string>
+    <string name="overlay_channel">"Оверлей"</string>
+    <string name="danger_shown">"Опасная зона показана · нажми, чтобы настроить"</string>
+    <string name="danger_hidden">"Опасная зона скрыта · нажми, чтобы настроить"</string>
+    <string name="previous_cutout">"‹ Вырез"</string>
+    <string name="next_cutout">"Вырез ›"</string>
+    <string name="stop">"Выключить"</string>
+</resources>

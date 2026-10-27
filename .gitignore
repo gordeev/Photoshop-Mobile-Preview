@@ -1,0 +1,50 @@
+# Build outputs and caches (binaries belong in Releases)
+**/build/
+/dist/
+*.apk
+*.idsig
+*.ccx
+*.class
+*.dex
+__pycache__/
+*.py[cod]
+
+# Signing material and local configuration
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.env
+.env*
+!.env.example
+*password*
+*credentials*
+local.properties
+signing.properties
+.private/
+.secrets/
+secrets/
+
+# Local agent instructions and working notes
+AGENTS.md
+SKILL.md
+CLAUDE.md
+TODO*
+todo*
+PROMPT*
+prompt*
+skills/
+.agents/
+.codex/
+.claude/
+.aws/
+
+# Editor and OS files
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.log

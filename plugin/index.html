@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { padding: 10px; color: var(--uxp-host-text-color); font-size: 12px; }
+    label { display: block; margin: 10px 0 4px; color: var(--uxp-host-text-color-secondary); }
+    sp-textfield, sp-picker { width: 100%; }
+    .row { display: flex; gap: 8px; margin-top: 14px; }
+    .row sp-button { flex: 1; }
+    #status { margin-top: 14px; line-height: 1.5; }
+    .dot { display: inline-block; width: 8px; height: 8px; border-radius: 4px; margin-right: 6px; background: #777; }
+    .on .dot { background: #3c3; }
+    .err .dot { background: #e44; }
+    .hint { margin-top: 12px; color: var(--uxp-host-text-color-secondary); font-size: 11px; line-height: 1.4; }
+  </style>
+</head>
+<body>
+  <label id="addressLabel" for="address">Phone or server address (comma-separated)</label>
+  <sp-textfield id="address" placeholder="localhost:8765"></sp-textfield>
+
+  <label id="sizeLabel" for="size">Image size (longest side)</label>
+  <sp-picker id="size">
+    <sp-menu slot="options">
+      <sp-menu-item value="1080">1080 px</sp-menu-item>
+      <sp-menu-item value="1600" selected>1600 px</sp-menu-item>
+      <sp-menu-item value="2400">2400 px</sp-menu-item>
+      <sp-menu-item value="4000">4000 px</sp-menu-item>
+    </sp-menu>
+  </sp-picker>
+
+  <div class="row">
+    <sp-button id="toggle" variant="cta">Start</sp-button>
+    <sp-button id="once" variant="secondary">Send once</sp-button>
+  </div>
+
+  <div id="status"><span class="dot"></span><span id="statusText">Stopped</span></div>
+
+  <div class="hint" id="hint">
+    The Android app shows its address. For iPhone / browser: run the server on your computer and use localhost:8765.
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

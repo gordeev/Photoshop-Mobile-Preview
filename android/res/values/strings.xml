@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit">"Fit"</string>
+    <string name="fit_width">"Width"</string>
+    <string name="fit_height">"Height"</string>
+    <string name="danger_zone">"Danger zone"</string>
+    <string name="screen_corners">"Screen corners"</string>
+    <string name="profile_count">"%1$d of %2$d"</string>
+    <string name="waiting">"Photoshop plugin address:\n\n%1$s\n\nWaiting for an image from Photoshop…\n\nTap the center to open the menu"</string>
+    <string name="no_network">"no network (Wi-Fi / VPN)"</string>
+    <string name="gesture_hint">"Tap the left / right edge or use volume keys to switch cutouts\nTap the center for the menu · double-tap for 1:1 · pinch to zoom"</string>
+    <string name="plugin_address">"Plugin address: %1$s"</string>
+    <string name="frame_time">" · frame %1$s"</string>
+    <string name="server_error">"Server error: %1$s"</string>
+</resources>

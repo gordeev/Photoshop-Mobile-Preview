@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit">"Fit"</string>
+    <string name="fit_width">"Width"</string>
+    <string name="fit_height">"Height"</string>
+    <string name="danger_zone">"Danger zone"</string>
+    <string name="screen_corners">"Screen corners"</string>
+    <string name="profile_count">"%1$d of %2$d"</string>
+    <string name="overlay_subtitle">"Cutouts and danger zones over any app"</string>
+    <string name="overlay_permission">"Allow display over other apps"</string>
+    <string name="cutout">"Cutout"</string>
+    <string name="png_overlay">"Image overlay (PNG)"</string>
+    <string name="pick_png">"Choose PNG…"</string>
+    <string name="show_png">"Show"</string>
+    <string name="remove_png">"Remove"</string>
+    <string name="opacity">"Opacity: %1$d%%"</string>
+    <string name="overlay_hint">"The overlay lets taps through so you can use the app underneath.\nA normal screenshot (power + volume down) includes the zones.\nSwitch cutouts or stop the overlay from the notification."</string>
+    <string name="stop_overlay">"Stop overlay"</string>
+    <string name="start_overlay">"Start overlay"</string>
+    <string name="png_selected">"PNG selected"</string>
+    <string name="png_not_selected">"None selected"</string>
+    <string name="stretch">"Stretch"</string>
+    <string name="overlay_channel">"Overlay"</string>
+    <string name="danger_shown">"Danger zone shown · tap to configure"</string>
+    <string name="danger_hidden">"Danger zone hidden · tap to configure"</string>
+    <string name="previous_cutout">"‹ Cutout"</string>
+    <string name="next_cutout">"Cutout ›"</string>
+    <string name="stop">"Stop"</string>
+</resources>

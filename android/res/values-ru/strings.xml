@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fit">"Вписать"</string>
+    <string name="fit_width">"По ширине"</string>
+    <string name="fit_height">"По высоте"</string>
+    <string name="danger_zone">"Опасная зона"</string>
+    <string name="screen_corners">"Углы экрана"</string>
+    <string name="profile_count">"%1$d из %2$d"</string>
+    <string name="waiting">"Адрес для плагина Photoshop:\n\n%1$s\n\nЖду картинку из Photoshop…\n\nТап в центре экрана — меню"</string>
+    <string name="no_network">"нет сети (Wi-Fi / VPN)"</string>
+    <string name="gesture_hint">"Тап по левому / правому краю или кнопки громкости — листать вырезы\nТап в центре — спрятать меню · двойной тап — 1:1 · щипок — зум"</string>
+    <string name="plugin_address">"Адрес для плагина: %1$s"</string>
+    <string name="frame_time">" · кадр %1$s"</string>
+    <string name="server_error">"Ошибка сервера: %1$s"</string>
+</resources>

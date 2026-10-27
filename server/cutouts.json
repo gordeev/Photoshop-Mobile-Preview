@@ -1,0 +1,102 @@
+[
+  {
+    "id": "none", "short": "Без выреза", "short_en": "No cutout", "kind": "Без выреза", "kind_en": "No cutout", "device": "Картинка до самого края", "device_en": "Edge-to-edge image",
+    "w": 1080, "h": 2400, "rt": 0, "rb": 0,
+    "path": ""
+  },
+  {
+    "id": "galaxy-s20fe", "short": "Galaxy S20 FE", "kind": "Точка по центру", "kind_en": "Center punch hole", "device": "Samsung Galaxy S20 FE / A52",
+    "w": 1080, "h": 2400, "rt": 88, "rb": 88,
+    "path": "M 510,60 a 30,30 0 1 0 60,0 a 30,30 0 1 0 -60,0 Z @left"
+  },
+  {
+    "id": "galaxy-note10", "short": "Galaxy Note10", "kind": "Точка по центру", "kind_en": "Center punch hole", "device": "Samsung Galaxy Note10", "approx": true,
+    "w": 1080, "h": 2280, "rt": 84, "rb": 84,
+    "path": "M -34,54 a 34,34 0 1 0 68,0 a 34,34 0 1 0 -68,0 Z"
+  },
+  {
+    "id": "pixel8", "short": "Pixel 8", "kind": "Точка по центру", "kind_en": "Center punch hole", "device": "Google Pixel 8",
+    "w": 1080, "h": 2400, "rt": 104, "rb": 102,
+    "path": "M 503.5,65.75 a 36.25,36.25 0 1 0 72.5,0 a 36.25,36.25 0 1 0 -72.5,0 Z @left"
+  },
+  {
+    "id": "moto-g52", "short": "Moto G52", "kind": "Точка по центру", "kind_en": "Center punch hole", "device": "Motorola Moto G52",
+    "w": 1080, "h": 2400, "rt": 95, "rb": 95,
+    "path": "M 508,63 a 32,32 0 1 0 64,0 a 32,32 0 1 0 -64,0 Z @left"
+  },
+  {
+    "id": "pixel4a", "short": "Pixel 4a", "kind": "Точка слева", "kind_en": "Left punch hole", "device": "Google Pixel 4a / 5",
+    "w": 1080, "h": 2340, "rt": 102, "rb": 102,
+    "path": "M 41,83 a 42,42 0 1 0 84,0 a 42,42 0 1 0 -84,0 Z @left"
+  },
+  {
+    "id": "moto-edge", "short": "Moto Edge", "kind": "Точка слева", "kind_en": "Left punch hole", "device": "Motorola Edge", "approx": true,
+    "w": 1080, "h": 2340, "rt": 100, "rb": 100,
+    "path": "M 54,45 a 30,30 0 1 0 60,0 a 30,30 0 1 0 -60,0 Z @left"
+  },
+  {
+    "id": "moto-g5gplus", "short": "Moto G 5G Plus", "kind": "Овал слева", "kind_en": "Left oval", "device": "Motorola Moto G 5G Plus / G100", "approx": true,
+    "w": 1080, "h": 2520, "rt": 105, "rb": 105,
+    "path": "M 62,30 H 183 A 30,30 0 0 1 183,90 H 62 A 30,30 0 0 1 62,30 Z @left"
+  },
+  {
+    "id": "galaxy-s10e", "short": "Galaxy S10e", "kind": "Точка справа", "kind_en": "Right punch hole", "device": "Samsung Galaxy S10e / S10", "approx": true,
+    "w": 1080, "h": 2280, "rt": 84, "rb": 84,
+    "path": "M -114.5,58 a 40,40 0 1 0 80,0 a 40,40 0 1 0 -80,0 Z @right"
+  },
+  {
+    "id": "galaxy-s10plus", "short": "Galaxy S10+", "kind": "Овал справа", "kind_en": "Right oval", "device": "Samsung Galaxy S10+", "approx": true,
+    "w": 1440, "h": 3040, "rt": 112, "rb": 112,
+    "path": "M -224.5,18 H -101.5 A 53,53 0 0 1 -101.5,124 H -224.5 A 53,53 0 0 1 -224.5,18 Z @right"
+  },
+  {
+    "id": "oneplus6t", "short": "OnePlus 6T", "kind": "Капля", "kind_en": "Teardrop", "device": "OnePlus 6T",
+    "w": 1080, "h": 2340, "rt": 80, "rb": 80,
+    "path": "M -185,0 H 183.34 c -9.77.44 -19.57,0.08 -29.28,1.24 -20.33,1.14 -41.18,5.17 -58.62,16.24 C 78.54,28.27,66,44.26,52,58.29 a 72.73,72.73,0,0,1 -38.29,19.58 c -16.53,2.51 -34,1 -49.09 -6.62 -9.85 -4.62 -17.88 -12.24 -25.21 -20.18 -10.46 -11.27 -20.9 -22.75 -33.53 -31.66 -11.49 -8 -24.9 -12.78 -38.53 -15.42 C -149.92,0.81,-167.51.39,-185,0 Z"
+  },
+  {
+    "id": "moto-g7", "short": "Moto G7", "kind": "Капля", "kind_en": "Teardrop", "device": "Motorola Moto G7", "approx": true,
+    "w": 1080, "h": 2270, "rt": 80, "rb": 80,
+    "path": "M -80,0 A 30,30 0 0 1 -50,30 L -50,60 A 50,50 0 0 0 50,60 L 50,30 A 30,30 0 0 1 80,0 Z"
+  },
+  {
+    "id": "mi8", "short": "Xiaomi Mi 8", "kind": "Чёлка", "kind_en": "Notch", "device": "Xiaomi Mi 8",
+    "w": 1080, "h": 2248, "rt": 90, "rb": 90,
+    "path": "M295,0 295.818519,24.176374 C285.295731,69.8076784 267.243762,88 236.156733,88 L0,88 L-236.156733,88 C-267.243762,88 -285.295731,69.8076784 -295.818519,24.176374 L-295,0 Z"
+  },
+  {
+    "id": "oneplus6", "short": "OnePlus 6", "kind": "Чёлка", "kind_en": "Notch", "device": "OnePlus 6",
+    "w": 1080, "h": 2280, "rt": 60, "rb": 60,
+    "path": "M 0,0 L -183,0 A 24,24 0 0 1 -159,22 A 64,64 0 0 0 -95,80 L 95,80 A 64,64 0 0 0 159,22 A 24,24 0 0 1 183,0 Z"
+  },
+  {
+    "id": "pixel3xl", "short": "Pixel 3 XL", "kind": "Огромная чёлка", "kind_en": "Large notch", "device": "Google Pixel 3 XL",
+    "w": 1440, "h": 2960, "rt": 133, "rb": 70,
+    "path": "M -338,0 Q -252,-4 -258,71.5 V 79.5 Q -254,169.5 -163,171 H 163 Q 254,169.5 258,79.5 V 71.5 Q 252,-4 338,0 Z"
+  },
+  {
+    "id": "iphone-island", "short": "iPhone 15 Pro", "kind": "Dynamic Island", "kind_en": "Dynamic Island", "device": "iPhone 14 Pro, 15, 15 Pro, 16",
+    "w": 393, "h": 852, "rt": 55, "rb": 55,
+    "path": "M -44.33,11.33 H 44.33 A 18.67,18.67 0 0 1 44.33,48.67 H -44.33 A 18.67,18.67 0 0 1 -44.33,11.33 Z"
+  },
+  {
+    "id": "iphone13", "short": "iPhone 13", "kind": "Чёлка", "kind_en": "Notch", "device": "iPhone 13, 14",
+    "w": 390, "h": 844, "rt": 47.33, "rb": 47.33,
+    "path": "M -81,0 A 6,6 0 0 1 -75,6 L -75,13 A 20,20 0 0 0 -55,33 L 55,33 A 20,20 0 0 0 75,13 L 75,6 A 6,6 0 0 1 81,0 Z"
+  },
+  {
+    "id": "iphone-x", "short": "iPhone 11 Pro", "kind": "Чёлка", "kind_en": "Notch", "device": "iPhone X, XS, 11 Pro, 12",
+    "w": 375, "h": 812, "rt": 39, "rb": 39,
+    "path": "M -104.5,0 A 6,6 0 0 1 -98.5,6 L -98.5,10 A 20,20 0 0 0 -78.5,30 L 78.5,30 A 20,20 0 0 0 98.5,10 L 98.5,6 A 6,6 0 0 1 104.5,0 Z"
+  },
+  {
+    "id": "iphone11", "short": "iPhone 11", "kind": "Чёлка", "kind_en": "Notch", "device": "iPhone XR, 11",
+    "w": 414, "h": 896, "rt": 41.5, "rb": 41.5,
+    "path": "M -115.4,0 A 6.5,6.5 0 0 1 -108.9,6.5 L -108.9,11 A 21,21 0 0 0 -87.9,32 L 87.9,32 A 21,21 0 0 0 108.9,11 L 108.9,6.5 A 6.5,6.5 0 0 1 115.4,0 Z"
+  },
+  {
+    "id": "iphone12mini", "short": "iPhone 12 mini", "kind": "Огромная чёлка", "kind_en": "Large notch", "device": "iPhone 12 mini",
+    "w": 375, "h": 812, "rt": 44, "rb": 44,
+    "path": "M -113.3,0 A 6.5,6.5 0 0 1 -106.8,6.5 L -106.8,13 A 21.5,21.5 0 0 0 -85.3,34.5 L 85.3,34.5 A 21.5,21.5 0 0 0 106.8,13 L 106.8,6.5 A 6.5,6.5 0 0 1 113.3,0 Z"
+  }
+]
